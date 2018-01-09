@@ -25,6 +25,11 @@ an [Alfred 3](https://www.alfredapp.com/) workflow to control your Mac's Bluetoo
 
 control your Bluetooth by typing in the command `bt` with one of the following subcommands: `on`, `off`, or `restart`
 
+## thanks
+
+thank you [Astonish](https://thenounproject.com/svayush52/) for the [bluetooth icon](https://thenounproject.com/svayush52/uploads/?i=1167301), taken from [thenounproject.com](http://thenounproject.com).
+
+inspiration taken from [ravelll](https://github.com/ravelll)'s [wifi-workflow](https://github.com/ravelll/wifi-workflow).
 
 ## license
 
