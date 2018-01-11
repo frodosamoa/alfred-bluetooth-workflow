@@ -12,14 +12,15 @@ an [Alfred 3](https://www.alfredapp.com/) workflow to control your Mac's Bluetoo
 
     `$ brew install blueutil`
 
-1. clone this repo:
+1. just click this [link](https://github.com/frodosamoa/alfred-bluetooth-workflow/blob/master/Bluetooth.alfredworkflow?raw=true) to download the workflow file.
+
+2. or clone this repo:
 
     `$ git clone https://github.com/frodosamoa/alfred-bluetooth-workflow.git`
 
-2. open the workflow file:
-
+    and then open the workflow file:
+    
     `$ open alfred-bluewooth-workflow/Bluetooth.alfredworkflow`
-
 
 ## usage
 
